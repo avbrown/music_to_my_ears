@@ -71,7 +71,7 @@ For additional questions, please contact [Vu](mailto:avbrown313@gmail.com).
 ├── modeling_notebook.ipynb             <- Supplemental documentation of modeling performed in Jupyter Notebook
 ├── preprocessing_notebook.ipynb        <- Supplemental documentation of preprocessing performed in Jupyter Notebook
 ├── presentation.pdf                    <- PDF version of presentation to stakeholders
-├── tmp                                 <- Temporary variables saved from Jupyter Notebooks (to reduce time executing code)
+├── tmp                                 <- Temporary variables saved from Jupyter Notebooks (empty currently)
 └── images                              <- Images generated from main Jupyter Notebook
 
 ```
